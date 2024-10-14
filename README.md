@@ -4,8 +4,14 @@
 
 ## Fork note
 和同学玩qqbot的猜成语功能，故fork并作整理完善
+
 在script中有猜词器，用法示例如图
+
 <img width="520" alt="截图_20241014200002" src="https://github.com/user-attachments/assets/12f794ce-1c41-49ef-a9c9-fd243cf9cf9d">
+
+idiom-small-rf.json 结果 (idiom-formmated-rf.json->idiom.reduce and check.py)（ascii化的拼音便于匹配，同时拆解声母韵母便于排除）
+
+<img width="419" alt="截图_20241014200758" src="https://github.com/user-attachments/assets/5725bac4-bc92-49fa-a696-106d350a8e32">
 
 ## Project Structure
 
