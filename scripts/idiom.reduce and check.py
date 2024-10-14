@@ -52,7 +52,7 @@ def rf_notaion(word: str) -> tuple[str, str, str]:
             word = word.replace(zhuyin, replacement[zhuyin_index])
             yunmu = word.removeprefix(shengmu)
 
-            return shengmu, yunmu, "{word}0"
+            return shengmu, yunmu, f"{word}0"
 
     return "err", "err", f"{word}_"
 
