@@ -2,6 +2,11 @@
 
 中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
+## Fork note
+和同学玩qqbot的猜成语功能，故fork并作整理完善
+在script中有猜词器，用法示例如图
+<img width="520" alt="截图_20241014200002" src="https://github.com/user-attachments/assets/12f794ce-1c41-49ef-a9c9-fd243cf9cf9d">
+
 ## Project Structure
 
 ```
